@@ -8,7 +8,7 @@ This portfolio demonstrates technical proficiency in data analysis, problem-solv
 
 Specialized in Excel-based data analysis with focus on finance, sales performance, and operational metrics. Committed to delivering quantifiable results and supporting data-driven decision-making processes.
 
-**Location:** Ugunja, Kenya  
+**Location:** London, United Kingdom  
 **Target Roles:** Entry-level positions in Finance Analysis, Data Analysis, Engineering Analysis, Project Management
 
 This repository showcases skills, shares completed projects, and demonstrates continuous professional development in data analytics.
