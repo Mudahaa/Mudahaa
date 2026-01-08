@@ -2,7 +2,7 @@
 
 ## About
 
-Driven mechanical engineer with analytical expertise seeking to deliver data-driven insights and operational excellence to entry-level finance and engineering roles. Strong foundation in Excel data analysis, financial modeling, and project management, complemented by practical experience gained through part-time student positions.
+Data Scientist with analytical expertise seeking to deliver data-driven insights and operational excellence to data Science and engineering roles. Strong foundation in Excel data analysis, financial modeling, and project management, complemented by practical experience gained through part-time student positions.
 
 This portfolio demonstrates technical proficiency in data analysis, problem-solving capabilities, and ability to transform raw data into actionable business intelligence. Each project showcases skills that directly address employer needs: accurate financial analysis, clear data visualization, and strategic recommendations.
 
