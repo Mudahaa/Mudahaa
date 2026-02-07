@@ -155,8 +155,8 @@ This section presents data analytics projects that demonstrate ability to delive
 
 ## Education
 
-**[Your University Name]**  
-Bachelor's Degree in Mechanical Engineering, [Graduation Year]
+Daystar University 
+Bachelor's Degree in Computer Science,2021
 
 **Relevant Coursework:**
 - Data Analysis & Statistics
@@ -181,7 +181,7 @@ Demonstrating commitment to continuous professional development through relevant
 
 **LinkedIn:** [Your LinkedIn Profile URL]  
 **Email:** [Your Professional Email]  
-**Location:** Ugunja, Kenya  
+**Location:** Nairobi, Kenya  
 **GitHub:** [@Mudahaa](https://github.com/Mudahaa)
 
 ---
